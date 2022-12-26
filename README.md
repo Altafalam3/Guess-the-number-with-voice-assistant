@@ -1,6 +1,6 @@
 # Guess-the-number-with-voice-assistant
 I was bored so thought why dont make a easy game but then i was like lets do something different for this game..
-Not the usual keyboard inputs ..
+Not the usual keyboard inputs game ..
 
 To run this project in your system you have to install few modules.
 
