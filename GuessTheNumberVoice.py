@@ -71,7 +71,7 @@ while guess != num and guesses < 10:
             speak("You have guessed higher..Guess a lower number")
             print("You have guessed higher..Guess a lower number")
         else:
-            speak("You have guessed higher..Guess a lower number")
+            speak("You have guessed lower..Guess a higher number")
             print("You have guessed lower..Guess a higher number")
 
 if (flag):
